@@ -1,7 +1,7 @@
 {
   "name": "justifyprint",
   "version": "0.1.0",
-  "homepage": "https://justifyprint.com",
+  "homepage": "https://justifyprint.github.io/marketing-webapp/",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.7",
