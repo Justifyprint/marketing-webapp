@@ -3,7 +3,7 @@ import { Landing } from "./pages/Landing/Landing";
 
 export const routes = createBrowserRouter([
   {
-    path: '/',
+    path: '/marketing-webapp/',
     element: <Landing />,
 
   }
