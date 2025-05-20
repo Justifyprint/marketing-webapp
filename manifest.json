@@ -1,0 +1,25 @@
+{
+  "short_name": "Justify Print",
+  "name": "Justify Print & Design",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "42x42",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "42x42"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "42x42"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
